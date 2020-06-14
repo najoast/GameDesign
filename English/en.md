@@ -1,0 +1,1 @@
+* [Randomness without Replacement](https://www.gamedev.net/reference/articles/article2206.asp)
